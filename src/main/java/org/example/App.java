@@ -16,6 +16,5 @@ public class App
         adverb = input.nextLine();
 
         System.out.printf("Do you %s your %s %s %s? That's hilarious!", verb, adjective, noun, adverb);
-
     }
 }
